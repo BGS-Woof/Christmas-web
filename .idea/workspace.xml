@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6be2ca81-e5f2-4a69-83ec-171eb29c0742" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="238tcelIQVDAEdkbSkM44e7h4YC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\OneDrive\Рабочий стол\christmas web\src\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6be2ca81-e5f2-4a69-83ec-171eb29c0742" name="Default Changelist" comment="" />
+      <created>1641127623090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641127623090</updated>
+      <workItem from="1641127625576" duration="1348000" />
+      <workItem from="1641141166920" duration="3514000" />
+      <workItem from="1641196409145" duration="898000" />
+      <workItem from="1641214891295" duration="886000" />
+      <workItem from="1641290835852" duration="2849000" />
+      <workItem from="1641321370089" duration="3013000" />
+      <workItem from="1641368128781" duration="1588000" />
+      <workItem from="1641377892434" duration="1826000" />
+      <workItem from="1641384462171" duration="5670000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="66" key="#Intentions" timestamp="1641378030847">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="66" key="#Intentions/0.0.1536.816@0.0.1536.816" timestamp="1641378030847" />
+  </component>
+</project>
